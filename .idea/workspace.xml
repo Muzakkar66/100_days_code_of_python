@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d34acd3b-47d3-44c2-a122-4e36bf60ffa1" name="Changes" comment="added day 4">
-      <change afterPath="$PROJECT_DIR$/Day 1/tip_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 3/treasure_island_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/Radom Module/random_bill_pay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/lists/lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/lists/nested_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/lists/quiz_questions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 4/rock_paper_scissor_pro/rock_paper_scissors.py" afterDir="false" />
+    <list default="true" id="d34acd3b-47d3-44c2-a122-4e36bf60ffa1" name="Changes" comment="added day 5 almost Done">
+      <change afterPath="$PROJECT_DIR$/Day 5/password_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 6/reebors_challages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 6/while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 6/while_lop_and_if_else_challange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 6/while_lop_challange.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,27 +52,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.for_loop.executor": "Run",
+    "Python.for_lop_with_range_func.executor": "Run",
+    "Python.higheast_score.executor": "Run",
     "Python.lists.executor": "Run",
     "Python.main.executor": "Run",
     "Python.my_module.executor": "Run",
     "Python.nested_list.executor": "Run",
+    "Python.password_generator.executor": "Run",
     "Python.quiz_questions.executor": "Run",
     "Python.random_bill_pay.executor": "Run",
+    "Python.reebors_challages.executor": "Run",
     "Python.rock_paper_scissors.executor": "Run",
     "Python.task.executor": "Run",
     "Python.tip_calculator.executor": "Run",
     "Python.treasure_island_project.executor": "Run",
+    "Python.while_loop.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/muzakkir/PycharmProjects/100_days_code_of_python/Day 4/rock_paper_scissor_pro"
+    "last_opened_file_path": "/home/muzakkir/PycharmProjects/100_days_code_of_python/Day 6"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day 6" />
       <recent name="$PROJECT_DIR$/Day 4/rock_paper_scissor_pro" />
       <recent name="$PROJECT_DIR$/Day 4/Radom Module" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Day 6" />
       <recent name="$PROJECT_DIR$/Day 4/lists" />
     </key>
   </component>
@@ -126,12 +132,29 @@
       <option name="project" value="LOCAL" />
       <updated>1725123995447</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added day 5 almost Done">
+      <option name="closed" value="true" />
+      <created>1725735433922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725735433922</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added day 5 almost Done">
+      <option name="closed" value="true" />
+      <created>1725735444701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725735444701</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added day 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="added day 4" />
+    <MESSAGE value="added day 5 almost Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="added day 5 almost Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
