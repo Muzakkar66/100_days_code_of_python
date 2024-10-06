@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d34acd3b-47d3-44c2-a122-4e36bf60ffa1" name="Changes" comment="added day 5 almost Done">
-      <change afterPath="$PROJECT_DIR$/Day 5/password_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/reebors_challages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/while_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/while_lop_and_if_else_challange.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day 6/while_lop_challange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 6/hurdle_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 7/hangman_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 7/hangman_stages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day 7/hangman_word.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,31 +49,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.for_loop.executor": "Run",
-    "Python.for_lop_with_range_func.executor": "Run",
-    "Python.higheast_score.executor": "Run",
-    "Python.lists.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.my_module.executor": "Run",
-    "Python.nested_list.executor": "Run",
-    "Python.password_generator.executor": "Run",
-    "Python.quiz_questions.executor": "Run",
-    "Python.random_bill_pay.executor": "Run",
-    "Python.reebors_challages.executor": "Run",
-    "Python.rock_paper_scissors.executor": "Run",
-    "Python.task.executor": "Run",
-    "Python.tip_calculator.executor": "Run",
-    "Python.treasure_island_project.executor": "Run",
-    "Python.while_loop.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/muzakkir/PycharmProjects/100_days_code_of_python/Day 6"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.for_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.for_lop_with_range_func.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hangman_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.higheast_score.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lists.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.my_module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nested_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password_generator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz_questions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random_bill_pay.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reebors_challages.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rock_paper_scissors.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tip_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.treasure_island_project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_loop.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/muzakkir/PycharmProjects/100_days_code_of_python&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Day 6" />
       <recent name="$PROJECT_DIR$/Day 4/rock_paper_scissor_pro" />
       <recent name="$PROJECT_DIR$/Day 4/Radom Module" />
@@ -150,6 +151,17 @@
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added day 4" />
